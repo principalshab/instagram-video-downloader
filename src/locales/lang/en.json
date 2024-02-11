@@ -1,0 +1,77 @@
+{
+    "downloadAppSection": {
+      "heading": "Download the SaveInsta app for Android",
+      "description": "We now provide an app for Instagram video Download. It is fast, easy, with no watermark and HD quality."
+    },
+    "about": {
+      "title": "About SaveInsta",
+      "description": "SaveInsta is your go-to online Instagram downloader. Easily download Videos, Photos, Stories, Reels, and IGTV content from Instagram in just a few steps. Paste the Instagram link into the input box on our website to grab high-quality content. Our tool works seamlessly on all devices including PC, Mac, Android, and iOS without the need for any software installation."
+    },
+    "howToUse": {
+      "title": "How to Use SaveInsta",
+      "description": "Here's a quick guide to download Instagram content:",
+      "steps": [
+        "Paste the Instagram video URL in the input field.",
+        "Choose your preferred quality and format (if available).",
+        "Click the \"Download\" button."
+      ]
+    },
+    "faq": {
+      "title": "FAQs",
+      "questions": [
+        {
+          "question": "What is Instagram Downloader?",
+          "answer": "It's a tool that lets you download various content types from Instagram, such as Videos, Photos, Stories, Reels, and IGTV. It's compatible with all devices."
+        },
+        {
+          "question": "How to download videos and photos on Instagram?",
+          "answer": "1. Paste the Instagram URL in the input box and click 'Download'. 2. Select the 'Download Photo' or 'Download Video' button below the content."
+        },
+        {
+          "question": "Can I download Instagram Story?",
+          "answer": "Yes, you can download any Instagram Story. Click on the (...) icon above the Story post and continue pressing the Copy Link option → Paste the copied link into SaveInsta → Download."
+        },
+        {
+          "question": "Can I download videos and photos directly on Instagram?",
+          "answer": " Unfortunately, Instagram does not allow you to download any content. You can go to the SaveInsta.app website and follow the instructions to download any content on IG."
+        },
+        {
+          "question": "Do I have to pay to download Instagram videos and photos?",
+          "answer": "SaveInsta.app is a free Instagram downloader. You can download any Instagram content (Videos, Photos, Reels, Story, IGTV) without any feature limitation."
+        },
+        {
+          "question": "Where are Instagram videos and photos saved after downloading?",
+          "answer": " Please check the \"Downloads\" folder in your phone or the \"download history\" section of your browser."
+        }
+      ]
+    },
+    "footer": {
+      "home": "Home",
+      "description": "Your Free Instagram downloader. Download high quality Instagram Reels, Story, Video, Photos and IGTV with just one click",
+      "about": "About",
+      "termsCondition": "Terms and Conditions",
+      "allRightsReserved": "All rights reserved"
+    },
+    "termsAndConditions": {
+      "title": "Acceptance of Terms of Service",
+      "sections": [
+        {
+          "heading": "Who may use our Services (User)",
+          "content": "Saveinsta creates and develops content, information, graphics, documents, text, products, and all other elements and products and services offered through Saveinsta App and Web (Content or Materials) available for your use for free and personal use subject to the terms and conditions set out in this document. By accessing and using Saveinsta App and Web you agree to be bound by and to accept our ToS and all terms and conditions contained and/or referenced herein, and you agree to abide by the ToS as a User (Users) of our Content and Materials."
+        },
+        {
+          "heading": "Materials relate to our Services",
+          "content": "You agree to use Saveinsta App and Web, Saveinsta Products and Services only for purposes permitted by our ToS as well as any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions. Our tools were designed to help you download videos and images uploaded by your own account. We reserve the right to refuse to provide our service if you use our tools to infringe upon others people privacy and material. SNAPINSTA IS NOT RESPONSIBLE FOR ANY VIOLATION OF APPLICABLE LAWS, RULES, OR REGULATIONS COMMITTED BY YOU OR A THIRD PARTY AT YOUR BEHEST. Specifically, you agree and warrant that in using Saveinsta App and Web, Saveinsta Products and Services, your actions do not contravene the laws, rules, or regulations of (1) the country, state, or locality where you reside, or (2) the country, state, or locality where Saveinsta is located or operates."
+        },
+        {
+          "heading": "Users' Obligations",
+          "content": "Saveinsta respects trademark rights and complies with trademark laws and regulations. Our trademark Saveinsta™ is created by Saveinsta and should be used only for and in relation to our Services, Saveinsta App and Web. It should be read as a seamless word without reference to any individual or entity other than Saveinsta. When using, mentioning, referring to our Services, Saveinsta App and Web, Saveinsta Content and Materials, please note to follow our policy: - Use the exact format Saveinsta™ as a word without any space, division, separation among its constituent components or in any other variants. - Never associate our trademark Saveinsta™ with and never confuse our Saveinsta TM with any other individual(s), entity(ies), application(s), website(s), goods or services of other individual and entities if not belong to Saveinsta. - We reserve our rights in and relating to our trademark Saveinsta™ against any misuse, misrepresentation, infringement in any form. - We encourage and thank you who inform us of any suspect misuse, misrepresentation, infringement, and non-compliance for our proper handling."
+        },
+        {
+          "heading": "Copyright Issue",
+          "content": "You agree to use Saveinsta App and Web, Saveinsta Products and Services only for purposes permitted by our ToS as well as any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions. Our tools was designed to help you download videos and images uploaded by your own account. We reserve the right to refuse to provide our service if you use our tools to infringe upon others people privacy and material.SNAPINSTA IS NOT RESPONSIBLE FOR ANY VIOLATION OF APPLICABLE LAWS, RULES, OR REGULATIONS COMMITTED BY YOU OR A THIRD PARTY AT YOUR BEST,Specifically, you agree and warrant that in using Saveinsta App and Web, Saveinsta Products and Services, your actions do not contravene the laws, rules, or regulations of (1) the country, state, or locality where you reside, or (2) the country, state, or locality where Saveinsta is located or operates."
+        }
+      ]
+    }
+  }
+  
